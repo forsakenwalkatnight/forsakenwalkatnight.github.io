@@ -8,6 +8,24 @@
             <title>Article 1</title>
             <link>http://yourwebsite.com/article1</link>
             <description>Description of article 1</description>
+            <pubDate>Mon, 16 Aug 2024 10:00:00 PDT</pubDate>
+        </item>
+        <item>
+            <title>Article 1</title>
+            <link>http://yourwebsite.com/article1</link>
+            <description>Description of article 1</description>
+            <pubDate>Mon, 16 Aug 2024 10:00:00 PDT</pubDate>
+        </item>
+        <item>
+            <title>Article 1</title>
+            <link>http://yourwebsite.com/article1</link>
+            <description>Description of article 1</description>
+            <pubDate>Mon, 19 Aug 2024 10:00:00 PDT</pubDate>
+        </item>        
+        <item>
+            <title>Article 1</title>
+            <link>http://yourwebsite.com/article1</link>
+            <description>Description of article 1</description>
             <pubDate>Mon, 16 Sep 2024 10:00:00 PDT</pubDate>
         </item>
         <item>
