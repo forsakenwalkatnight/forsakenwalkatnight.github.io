@@ -21,7 +21,7 @@
             <link>http://yourwebsite.com/article1</link>
             <description>Description of article 1</description>
             <pubDate>Mon, 19 Aug 2024 10:00:00 PDT</pubDate>
-        </item>        
+        </item>
         <item>
             <title>Article 1</title>
             <link>http://yourwebsite.com/article1</link>
@@ -63,48 +63,48 @@
             <link>http://yourwebsite.com/article2</link>
             <description>Description of article 2</description>
             <pubDate>Tue, 24 Sep 2024 10:00:00 PDT</pubDate>
-        </item>        
+        </item>
         <item>
             <title>asdf AAAAAFFFFFFF</title>
             <link>http://yourwebsite.com/article2</link>
             <description>Description of article 2</description>
             <pubDate>Tue, 24 Sep 2024 10:00:00 PDT</pubDate>
-        </item>    
+        </item>
         <item>
             <title>asdf fffffaaa</title>
             <link>http://yourwebsite.com/article2</link>
             <description>Description of article 2</description>
             <pubDate>Tue, 24 Sep 2024 15:00:00 PDT</pubDate>
-        </item>    
+        </item>
         <item>
             <title>asdf aaaaa22</title>
             <link>http://yourwebsite.com/article2</link>
             <description>Description of article 2</description>
             <pubDate>Tue, 24 Sep 2024 15:00:00 PDT</pubDate>
-        </item>   
+        </item>
         <item>
             <title>asdf fffffaaa</title>
             <link>http://yourwebsite.com/article2</link>
             <description>Description of article 2</description>
             <pubDate>Tue, 24 Sep 2024 12:00:00 PDT</pubDate>
-        </item>    
+        </item>
         <item>
             <title>asdf aaaaa22</title>
             <link>http://yourwebsite.com/article2</link>
             <description>Description of article 2</description>
             <pubDate>Tue, 24 Sep 2024 12:00:00 PDT</pubDate>
-        </item>    
+        </item>
         <item>
             <title>asdf 5</title>
             <link>http://yourwebsite.com/article2</link>
             <description>Description of article 2</description>
             <pubDate>Tue, 24 Sep 2024 12:10:00 PDT</pubDate>
-        </item>    
+        </item>
         <item>
             <title>asdf aa2</title>
             <link>http://yourwebsite.com/article2</link>
             <description>Description of article 2</description>
             <pubDate>Tue, 24 Sep 2024 12:10:00 PDT</pubDate>
-        </item>    
+        </item>
     </channel>
 </rss>
