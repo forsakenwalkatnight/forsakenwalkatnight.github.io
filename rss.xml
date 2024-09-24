@@ -40,5 +40,17 @@
             <description>Description of article 2</description>
             <pubDate>Mon, 19 Oct 2024 12:00:00 PDT</pubDate>
         </item>
+        <item>
+            <title>Articleasdfasdf 3</title>
+            <link>http://yourwebsite.com/article2</link>
+            <description>Description of article 2</description>
+            <pubDate>Mon, 23 Sep 2024 12:00:00 PDT</pubDate>
+        </item>
+            <item>
+            <title>asdf 3</title>
+            <link>http://yourwebsite.com/article2</link>
+            <description>Description of article 2</description>
+            <pubDate>Mon, 23 Sep 2024 10:00:00 PDT</pubDate>
+        </item>
     </channel>
 </rss>
