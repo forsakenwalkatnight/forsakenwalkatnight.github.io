@@ -123,6 +123,12 @@
             <link>http://yourwebsite.com/article2</link>
             <description>Description of article 2</description>
             <pubDate>Tue, 24 Sep 2024 16:30:00 PDT</pubDate>
-        </item>        
+        </item>
+        <item>
+            <title>notlosingit</title>
+            <link>http://yourwebsite.com/article2</link>
+            <description>Description of article 2</description>
+            <pubDate>Tue, 29 Oct 2024 16:30:00 PDT</pubDate>
+        </item>     
     </channel>
 </rss>
