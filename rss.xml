@@ -129,6 +129,12 @@
             <link>http://yourwebsite.com/article2</link>
             <description>Description of article 2</description>
             <pubDate>Tue, 29 Oct 2024 16:30:00 PDT</pubDate>
+        </item>
+        <item>
+            <title>every line sucks</title>
+            <link>http://yourwebsite.com/article2</link>
+            <description>Description of article 2</description>
+            <pubDate>Tue, 29 Oct 2024 16:30:00 PDT</pubDate>
         </item>     
     </channel>
 </rss>
