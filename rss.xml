@@ -5,6 +5,12 @@
         <link>http://yourwebsite.com</link>
         <description>A description of your feed</description>
         <item>
+            <title>october</title>
+            <link>http://yourwebsite.com/article1</link>
+            <description>Description of article 1</description>
+            <pubDate>Mon, 30 Oct 2024 10:00:00 PDT</pubDate>
+        </item>
+        <item>
             <title>Articffff1</title>
             <link>http://yourwebsite.com/article1</link>
             <description>Description of article 1</description>
